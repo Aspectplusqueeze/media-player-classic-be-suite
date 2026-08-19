@@ -33,4 +33,4 @@ No extra dependencies — download and run.
 
 ## Before you start
 - OS: Windows
-- An internet connection for the first run  
+- An internet connection for the first run   
